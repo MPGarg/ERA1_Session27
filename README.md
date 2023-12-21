@@ -1,6 +1,6 @@
 # Microsoft-Phi2 fine tuned with OpenAssistant/oasst1  Dataset using QLoRA strategy
 
-### Partner from ERAv1- Madhur Prakash Garg
+### Partner from ERAv1- Rashi Agarwal
 
 ## Hugging Face implementation
 
